@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import Kingfisher
 
 class ViewController: UIViewController {
     @IBOutlet weak var imageView: UIImageView!
